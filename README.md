@@ -1,6 +1,6 @@
 # Archive of the History of the Web
 
-This archive organizes the Web's amazing history from the [very first website](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html) ever made by Tim Berners-Lee, through the introduction of [JavaScript](#) and [CSS](#), the [browser wars](https://en.wikipedia.org/wiki/Browser_wars), and everything inbetween. It is a work in progress. Contributions are welcome
+This archive organizes the Web's amazing history from the [very first website](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html) ever made by Tim Berners-Lee, through the introduction of [JavaScript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) and [CSS](#), the [browser wars](https://en.wikipedia.org/wiki/Browser_wars), and everything inbetween. It is a work in progress. Contributions are welcome
 
 ## Articles
 
