@@ -10,7 +10,7 @@ This archive organizes the Web's amazing history from the [very first website](h
 "Microsoft's biggest worry, though, should be the huge success of Mozilla Firefox, the open source web browser."
 
 ##### Feb 18th 2015 [Ajax: A New Approach to Web Applications](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/)
-- Jesse James Garrett coins the term "AJAX"
+Jesse James Garrett coins the term "AJAX"
 
 ## Misc
 
