@@ -9,6 +9,9 @@ This archive organizes the Web's amazing history from the [very first website](h
 ##### May 9th 2005 [The assault on software giant Microsoft](http://news.bbc.co.uk/2/hi/business/4508897.stm)
 "Microsoft's biggest worry, though, should be the huge success of Mozilla Firefox, the open source web browser."
 
+##### Feb 18th 2015 [Ajax: A New Approach to Web Applications](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/)
+- Jesse James Garrett coins the term "AJAX"
+
 ## Misc
 
 - [Mozilla Museum](http://home.snafu.de/tilman/mozilla/index.html)
