@@ -4,6 +4,10 @@ This archive organizes the Web's amazing history from the [very first website](h
 
 ## Articles
 
+### 2008
+
+##### Apr 2008 [The story about how JavaScript was started, as told by Brendan Eich](https://brendaneich.com/2008/04/popularity/)
+
 ### 2005
 
 ##### May 9th 2005 [The assault on software giant Microsoft](http://news.bbc.co.uk/2/hi/business/4508897.stm)
