@@ -6,7 +6,8 @@ This archive organizes the Web's amazing history from the [very first website](h
 
 ### 2008
 
-##### Apr 2008 [The story about how JavaScript was started, as told by Brendan Eich](https://brendaneich.com/2008/04/popularity/)
+##### Apr 2008 [Popularity](https://brendaneich.com/2008/04/popularity/)
+The story about how JavaScript was started, as told by Brendan Eich
 
 ### 2005
 
