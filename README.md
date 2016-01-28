@@ -20,4 +20,5 @@ Jesse James Garrett coins the term "AJAX"
 ## Misc
 
 - [Mozilla Museum](http://home.snafu.de/tilman/mozilla/index.html)
+- [Mozilla ECMAScript Email Discussions / Archives](https://mail.mozilla.org/pipermail/es-discuss/)
 - [IE 4 Release Party: An attempt to haze Netscape backfires](http://home.snafu.de/tilman/mozilla/stomps.html)
